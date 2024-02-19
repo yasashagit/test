@@ -1,3 +1,3 @@
 # Git and Github Course
 
-Course git ad gitHub
+Course git and GitHub

@@ -1,3 +1,4 @@
-from main2 import hellow
+from main2 import hello
 
-hellow()
+hello()
+hello()

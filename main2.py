@@ -1,3 +1,3 @@
 
-def hellow():
+def hello():
     print('Hello')
